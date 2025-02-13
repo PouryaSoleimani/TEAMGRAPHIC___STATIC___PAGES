@@ -12,3 +12,9 @@ btn.addEventListener('click', () => {
         render()
     }
 })
+
+function logger(text) {
+    console.log(text)
+    let myNAme = "Pourya Soleimani"
+    console.log(myNAme)
+}
