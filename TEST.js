@@ -18,3 +18,7 @@ function logger(text) {
     let myNAme = "Pourya Soleimani"
     console.log(myNAme)
 }
+
+function getData (){
+    axios.get()
+}
