@@ -19,6 +19,6 @@ function logger(text) {
     console.log(myNAme)
 }
 
-function getData (){
+function getData() {
     axios.get()
 }
