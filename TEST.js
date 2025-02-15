@@ -22,4 +22,5 @@ function logger(text) {
 function getData() {
     axios.get()
         .then(res => console.log(res.data.data))
+        .catch(err => console.error(err))
 }
