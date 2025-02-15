@@ -24,3 +24,4 @@ function getData() {
         .then(res => console.log(res.data.data))
         .catch(err => console.error(err))
 }
+ let name = "pourya soleimani"
