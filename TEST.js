@@ -25,3 +25,4 @@ function getData() {
         .catch(err => console.error(err))
 }
 let name = "pourya soleimani"
+
