@@ -26,3 +26,4 @@ function getData() {
 }
 let name = "pourya soleimani"
 
+console.log("HELLO WORLD !!!!")
